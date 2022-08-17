@@ -9,7 +9,22 @@ const Card = () =>{
         src="https://i.ibb.co/s6fxGsc/images-66.jpg"
         alt="profile-picture"
       />
-      <div></div>
+      <div className="info">
+        <div className="title-info">
+          <h3>Allen</h3>
+          <p>Front-end Engineer</p>
+        </div>
+        <div className="about-info">
+          <div className="about-1">
+            <h4>About</h4>
+            <p>Loram ipsum</p>
+          </div>
+          <div className="about-2">
+            <h4>About</h4>
+            <p>Loram ipsum</p>
+          </div>
+        </div>
+      </div>
     </div>
   )
 }
