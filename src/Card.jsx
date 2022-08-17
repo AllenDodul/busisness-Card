@@ -17,11 +17,11 @@ const Card = () =>{
         <div className="about-info">
           <div className="about-1">
             <h4>About</h4>
-            <p>Loram ipsum</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
           </div>
           <div className="about-2">
             <h4>About</h4>
-            <p>Loram ipsum</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
           </div>
         </div>
       </div>
