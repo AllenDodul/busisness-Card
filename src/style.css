@@ -10,7 +10,6 @@ body{
 }
 h1,h2,h3,h4,h5,h6,p{
   margin: 0px;
-  padding: 5px;
 }
 p{
   font-size: small;
@@ -44,7 +43,7 @@ p{
   margin-bottom: 7px;
 }
 .about-1,.about-2{
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   padding: 5px;
   width: 100%;
 }
